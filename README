@@ -10,7 +10,7 @@ of reliable nodes via a built-in DNS server.
 Features:
 * regularly revisits known nodes to check their availability
 * bans nodes after enough failures, or bad behaviour
-* network protocol versioning minimum 69002 with a min block height of 7600000
+* network protocol versioning minimum 69002 with a min block height of 8560000
 * keeps statistics over (exponential) windows of 2 hours, 8 hours,
   1 day and 1 week, to base decisions on.
 * very low memory (a few tens of megabytes) and cpu requirements.
